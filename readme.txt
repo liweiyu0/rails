@@ -19,3 +19,6 @@
                  -- Li Weiyu
   git checkout -- filename
   return to last add(if add) or commit(if not add)
+2018-11-16 22:08:06
+                 -- Li Weiyu
+  git rm
