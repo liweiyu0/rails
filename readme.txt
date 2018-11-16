@@ -14,3 +14,4 @@
 2018-11-16 21:07:59
                  -- Li Weiyu
   understand Stage
+  Git tracks changes of files.
