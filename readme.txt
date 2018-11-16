@@ -11,3 +11,6 @@
 2018-11-16 20:58:56
                  -- Li Weiyu
   git reflog
+2018-11-16 21:07:59
+                 -- Li Weiyu
+  understand Stage
