@@ -15,3 +15,7 @@
                  -- Li Weiyu
   understand Stage
   Git tracks changes of files.
+2018-11-16 21:23:05
+                 -- Li Weiyu
+  git checkout -- filename
+  return to last add(if add) or commit(if not add)
